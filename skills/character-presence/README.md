@@ -1,5 +1,7 @@
 # Character Presence｜人物生成与一致性技能
 
+中文说明 | [English](README.en.md)
+
 面向 GPT Image 的中文人物生成、局部改图、表情、人设表达与多视图参考技能。
 
 ## 能做什么
@@ -15,6 +17,7 @@
 character-presence/
 ├── SKILL.md
 ├── README.md
+├── README.en.md
 └── references/
     ├── continuity.md
     ├── examples.md
